@@ -24,6 +24,7 @@ int main()
    return 0;
 }
 
+//Check palindrome of a string
 #include<stdio.h>
 #include<string.h>
 int main()
