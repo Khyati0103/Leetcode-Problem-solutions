@@ -24,10 +24,18 @@
 //    return 0;
 // }
 
+<<<<<<< HEAD
 // #include<stdio.h>
 // #include<string.h>
 // int main()
 // {
+=======
+//Check palindrome of a string
+#include<stdio.h>
+#include<string.h>
+int main()
+{
+>>>>>>> ba9e617027624deaef88d4afaa1002eca87243b4
     
 //     char str[100];
 //     char str1[100];
